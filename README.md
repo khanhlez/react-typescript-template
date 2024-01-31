@@ -1,9 +1,10 @@
-##Develop faster and smarter with this pre-configured React + TypeScript project.
+## Develop faster and smarter with this pre-configured React + TypeScript project.
 
 This template provides a solid foundation for building your next React application with the benefits of TypeScript's type safety and the convenience of pre-configured linting and formatting tools.
 
 
-React TypeScript Template: **Develop faster and smarter with this pre-configured React + TypeScript project.**
+#### React TypeScript Template: 
+**Develop faster and smarter with this pre-configured React + TypeScript project.**
 
 This template provides a solid foundation for building your next React application with the benefits of TypeScript's type safety and the convenience of pre-configured linting and formatting tools.
 
